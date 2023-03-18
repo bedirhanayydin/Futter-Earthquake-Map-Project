@@ -1,16 +1,12 @@
-# deprem_harita_proje
+# EARTHQUAKE PROJECT 
 
-A new Flutter project.
+My project of the last 50 earthquakes from Kandilli observatory on the map markers 
 
-## Getting Started
+![Screenshot_1](https://user-images.githubusercontent.com/58737803/226097456-9652a884-1342-4a87-9ab9-6f7251f9cf67.jpg) 
+![Screenshot_2](https://user-images.githubusercontent.com/58737803/226097467-a83a21a5-33f1-4439-9e82-1b220ae646a5.jpg) 
+![Screenshot_3](https://user-images.githubusercontent.com/58737803/226097487-385a82fd-1e58-46ef-8509-37f3cc3e779b.jpg) 
 
-This project is a starting point for a Flutter application.
+## Thanks for the backend support 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [https://github.com/Berke-Alp] 
+- [https://api.berkealp.net/kandilli.html]
