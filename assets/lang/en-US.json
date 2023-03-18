@@ -1,0 +1,12 @@
+{
+    "app": {
+        "home": {
+            "earthquakes": "Earthquakes"
+        },
+        "en": "EN", 
+        "tr":"TR", 
+        "last_earthquake":"Last Earthquake",
+        "gallery_loading":"Loading..."
+
+    }
+}

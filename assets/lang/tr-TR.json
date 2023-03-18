@@ -1,0 +1,11 @@
+{
+    "app": {
+        "home": {
+            "earthquakes": "DEPREMLER"
+        },
+        "en": "TR", 
+        "tr":"EN", 
+        "last_earthquake":"Son Deprem",
+        "gallery_loading":"Yükleniyor..."
+    }
+}
